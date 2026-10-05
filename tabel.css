@@ -1,0 +1,17 @@
+       table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #060606;
+  text-align: left;
+    padding: 8px}
+    tr:nth-child 
+    {background-color: #dddddd;
+}
+
+h2 {text-align: center;}
+.Status {text-align: center;background-color: #dddddd;}
+th {color: #f9f9f9;
+background-color: rgb(42, 20, 188);}
